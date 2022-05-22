@@ -27,3 +27,8 @@ span {
 .filtered {
   display: none !important;
 }
+
+#submit {
+  background-color: #423a6f;
+  border: solid 1px white;
+}
